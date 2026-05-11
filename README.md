@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data Structures in C
 
 Collection of classic data structure implementations in C.
